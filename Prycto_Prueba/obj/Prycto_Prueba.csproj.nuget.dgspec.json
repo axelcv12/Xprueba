@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josca\\OneDrive\\Escritorio\\Prueba\\Sln_Prueba\\Prycto_Prueba\\Prycto_Prueba.csproj": {}
+    "C:\\Users\\Abzzalon\\Desktop\\R\\Xprueba\\Prycto_Prueba\\Prycto_Prueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josca\\OneDrive\\Escritorio\\Prueba\\Sln_Prueba\\Prycto_Prueba\\Prycto_Prueba.csproj": {
+    "C:\\Users\\Abzzalon\\Desktop\\R\\Xprueba\\Prycto_Prueba\\Prycto_Prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josca\\OneDrive\\Escritorio\\Prueba\\Sln_Prueba\\Prycto_Prueba\\Prycto_Prueba.csproj",
+        "projectUniqueName": "C:\\Users\\Abzzalon\\Desktop\\R\\Xprueba\\Prycto_Prueba\\Prycto_Prueba.csproj",
         "projectName": "Prycto_Prueba",
-        "projectPath": "C:\\Users\\josca\\OneDrive\\Escritorio\\Prueba\\Sln_Prueba\\Prycto_Prueba\\Prycto_Prueba.csproj",
-        "packagesPath": "C:\\Users\\josca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josca\\OneDrive\\Escritorio\\Prueba\\Sln_Prueba\\Prycto_Prueba\\obj\\",
+        "projectPath": "C:\\Users\\Abzzalon\\Desktop\\R\\Xprueba\\Prycto_Prueba\\Prycto_Prueba.csproj",
+        "packagesPath": "C:\\Users\\Abzzalon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abzzalon\\Desktop\\R\\Xprueba\\Prycto_Prueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\josca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abzzalon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
